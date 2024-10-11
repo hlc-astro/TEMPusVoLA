@@ -6,13 +6,7 @@ The Timed Epstein Multi-pressure Vessel at Low Accelerations (TEMPusVoLA) is an 
 ### publications
 The publication that outlines the scientific goals, explains the technical design, and demonstrates the technical realization of the project can be found in an article in the [Review of Scientific Instruments](https://pubs.aip.org/aip/rsi/article/93/10/104502/2845048/TEMPus-VoLA-The-timed-Epstein-multi-pressure). Data associated with this publication can be obtained from [Zenodo](https://doi.org/10.5281/zenodo.7556637). 
 
-In the paper published by [MNRAS](https://doi.org/10.1093/mnras/stae1898), we provide: 
-
-— a very general model of gas percolation through granular material under low pressure and low gravity conditions, which allows us to determine the cohesive strength of dust regolith simulant.
-
-— a demonstration that granular media can induce a form of flow symmetry breaking even at low Reynolds number. 
-
-— we put this in the context of outflows on planetesimal (comet) surfaces, as well as consider the implications for aerodynamic drag on dust aggregates in protoplanetary discs. 
+In the paper published by [MNRAS](https://doi.org/10.1093/mnras/stae1898), we provide a very general model of gas percolation through granular material under low pressure and low gravity conditions, which allows us to determine the cohesive strength of dust regolith simulant. We also demonstrate that granular media can induce a form of flow symmetry breaking even at low Reynolds number. We put this in the context of outflows on planetesimal (comet) surfaces, as well as consider the implications for aerodynamic drag on dust aggregates in protoplanetary discs. 
 
 
 ## Using this repository
