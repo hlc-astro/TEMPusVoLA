@@ -17,8 +17,6 @@ This repository contains Jupyter notebooks that were used for calculations of th
 
 A seminar talk in May 2024 summarizing the project and key results at [IPAG/CNRS Grenoble](https://cloud.univ-grenoble-alpes.fr/s/3ZryWNditsdHcmq) 
 
-An poster presented at the [IAC Milano 2024](iac2024-iaf.ipostersessions.com/Default.aspx?s=98-4E-BD-6E-28-91-4C-02-FC-BC-81-B4-02-4C-C4-94)
-
 News associated with this project can be found at the following links: 
 
 [Announcement](https://nccr-planets.ch/blog/2019/12/12/new-initiatives/)
